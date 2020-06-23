@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sponsors
+nav_order: 9
+---
+
 ![](images/tide-wp.png)
 
 # Sponsors
