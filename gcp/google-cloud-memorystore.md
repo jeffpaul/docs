@@ -1,3 +1,10 @@
+---
+layout: default
+title: Google Cloud Memorystore
+parent: Google Cloud Platform
+nav_order: 4
+---
+
 # Google Cloud Memorystore
 
 Deploying a Redis instance to Cloud Memorystore for the WordPress API only requires a bit of configuration to the environment variables and then to run a few `make` commands.
