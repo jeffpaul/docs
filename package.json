@@ -1,22 +1,18 @@
 {
   "name": "wptide-docs",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "Tide - Official Documentation",
+  "repository": "wptide/docs",  
   "license": "MIT",
-  "scripts": {
-    "dev": "node docpress/docpress/bin/docpress",
-    "build": "node docpress/docpress/bin/docpress b",
-    "link": "bin/link"
-  },
+  "bugs": "https://github.com/wptide/docs/issues",  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wptide/docs.git"
   },
+  "devDependencies": {
+  },
+  "scripts": {
+  },  
   "dependencies": {
-    "debounce": "^1.1.0",
-    "dom101": "^2.2.1",
-    "nprogress": "^0.2.0",
-    "onmount": "^1.3.0",
-    "pjax": "^0.2.6"
   }
 }
