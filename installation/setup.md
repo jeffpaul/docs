@@ -1,3 +1,10 @@
+---
+layout: default
+title: Setup
+parent: Installation
+nav_order: 3
+---
+
 # Setup
 
 If you run into any problems getting Tide setup, then see the [Help](../help.md) page for common issues or ask in the [`#tide` channel](https://wordpress.slack.com/messages/C7TK8FBUJ/) in [WordPress Slack](https://make.wordpress.org/chat/).
