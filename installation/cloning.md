@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cloning
+parent: Installation
+nav_order: 2
+---
+
 # Cloning
 
 Tide needs to be cloned to a directory inside your Go workspace specified by the [`$GOPATH`](https://golang.org/doc/code#GOPATH) environment variable. Your `$GOPATH` defaults to a directory named `go` inside your home directory, so `$HOME/go` on Mac/Unix and `%USERPROFILE%\go` (usually `C:\Users\YourName\go`) on Windows.
