@@ -6,6 +6,8 @@
 
 Tide is an automated tool to provide insight into WordPress code and highlight areas to improve the quality of plugins and themes.
 
+![](assets/images/screenshot.png)
+
 ## Installation
 
 To develop locally, run:
