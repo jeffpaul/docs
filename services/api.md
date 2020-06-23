@@ -1,3 +1,9 @@
+---
+layout: default
+title: API
+parent: Services
+---
+
 # API
 
 The Tide API is a Docker implementation of MySQL, PHP-FPM, and Nginx. The web server has WordPress installed with this documentation theme and a REST API for storing theme and plugin audits. If you plan on deploying to the cloud you should read the entire [Google Cloud Platform](../gcp/index.md) section.
