@@ -1,3 +1,11 @@
+---
+layout: default
+title: Google Cloud Platform
+nav_order: 4
+has_children: true
+permalink: /gcp
+---
+
 # Google Cloud Platform
 
 If you are going to use any GCP resources for local development or plan to deploy Tide to the cloud, then you will have to install some prerequisites and get everything properly setup first.
