@@ -1,3 +1,10 @@
+---
+layout: default
+title: Google Cloud SQL
+parent: Google Cloud Platform
+nav_order: 3
+---
+
 # Google Cloud SQL
 
 Deploying a database to Cloud SQL for the WordPress API only requires a bit of configuration to the environment variables and then to run a single `make` command.
