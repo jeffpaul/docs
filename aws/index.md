@@ -1,3 +1,9 @@
+---
+layout: default
+title: Amazon Web Services
+nav_order: 5
+---
+
 # Amazon Web Services
 
 We no longer support deploying to AWS. However, you can still use Amazon S3 for storage and Amazon SQS for the audit queue if you like.
