@@ -1,3 +1,11 @@
+---
+layout: default
+title: Installation
+nav_order: 2
+has_children: true
+permalink: /installation
+---
+
 # Installation
 
 Setting up Tide locally is fairly straight forward and consists of the following steps:
