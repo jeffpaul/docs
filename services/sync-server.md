@@ -2,6 +2,7 @@
 layout: default
 title: Sync Server
 parent: Services
+nav_order: 2
 ---
 
 # Sync server
