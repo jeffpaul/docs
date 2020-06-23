@@ -1,3 +1,10 @@
+---
+layout: default
+title: Prerequisites
+parent: Installation
+nav_order: 1
+---
+
 # Prerequisites
 
 ## Composer
