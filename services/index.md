@@ -1,3 +1,11 @@
+---
+layout: default
+title: Services
+nav_order: 3
+has_children: true
+permalink: /services
+---
+
 # Services
 
 Tide consists of the following services:
