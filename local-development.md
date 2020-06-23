@@ -1,3 +1,9 @@
+---
+layout: default
+title: Local Development
+nav_order: 7
+---
+
 # Local Development
 
 If you have come looking for a way to set up your local development environment and use Tide to audit your plugins and themes, that is not a good use case for the platform. A better option would be to install a few Composer packages and run the same code sniffers Tide does. The easiest way would be to add these two files to the root directory inside your plugin or theme.
