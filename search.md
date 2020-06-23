@@ -1,3 +1,9 @@
+---
+layout: default
+title: API Search
+nav_order: 10
+---
+
 # Search Plugins &amp; Themes
 
 The search form makes a `GET` request to the Tide API and responds with a JSON object of an audit by searching for a plugin or theme slug from the wordpress.org repository. For example, you can search for the theme `twentyseventeen` or plugin `jetpack`.
