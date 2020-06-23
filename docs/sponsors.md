@@ -4,7 +4,7 @@ title: Sponsors
 nav_order: 9
 ---
 
-![](images/tide-wp.png)
+![](assets/images/tide-wp.png)
 
 # Sponsors
 
@@ -31,7 +31,7 @@ In addition to all the individuals who’ve invested their own time and energy s
         </svg>
     </div>
     <div class="logo kinsta">
-        <img src="/images/kinsta-logo.png" alt="Kinsta">
+        <img src="/assets/images/kinsta-logo.png" alt="Kinsta">
     </div>
 </div>
 
