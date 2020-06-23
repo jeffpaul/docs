@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sync Server
+parent: Services
+---
+
 # Sync server
 
 The Sync Server is a Go binary installed on an Alpine Linux Docker image that polls the wp.org API's for themes and plugins to process and writes them to a queue.
