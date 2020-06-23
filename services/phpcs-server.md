@@ -1,3 +1,10 @@
+---
+layout: default
+title: PHPCS Server
+parent: Services
+nav_order: 3
+---
+
 # PHPCS Server
 
 The PHPCS Server is a Go binary installed on an Alpine Linux Docker image that reads messages from a queue and runs PHPCS reports against both plugins and themes, then sends the results back to the Tide API. It is important to note that the PHPCS Server only does static analysis of PHP compatibility and WordPress coding standards and does not execute code or install themes and plugins into WordPress to run the audit.
