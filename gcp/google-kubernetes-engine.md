@@ -1,3 +1,10 @@
+---
+layout: default
+title: Google Kubernetes Engine
+parent: Google Cloud Platform
+nav_order: 6
+---
+
 # Google Kubernetes Engine
 
 All the goroutines are deployed to a Kubernetes cluster with the same basic steps, but first a bit of configuration to the environment variables for each server is required.
