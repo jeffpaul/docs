@@ -1,3 +1,10 @@
+---
+layout: default
+title: Google Cloud Firestore
+parent: Google Cloud Platform
+nav_order: 2
+---
+
 # Google Cloud Firestore
 
 If you want to use Cloud Firestore as the database provider for the Sync Server or as the message provider for the Lighthouse/PHPCS Server you'll need to setup Cloud Firestore for your project.
