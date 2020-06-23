@@ -1,3 +1,10 @@
+---
+layout: default
+title: Lighthouse Server
+parent: Services
+nav_order: 4
+---
+
 # Lighthouse Server
 
 The Lighthouse Server is a Go binary installed on an Alpine Linux Docker image that reads messages from a queue and runs Google Lighthouse reports against themes, then sends the results back to the Tide API.
