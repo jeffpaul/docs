@@ -1,3 +1,9 @@
+---
+layout: default
+title: Help
+nav_order: 6
+---
+
 # Help
 
 ## Failed Audit Request
