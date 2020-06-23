@@ -1,3 +1,10 @@
+---
+layout: default
+title: Google Cloud Storage
+parent: Google Cloud Platform
+nav_order: 1
+---
+
 # Google Cloud Storage
 
 If you want to upload Tide audit reports to GCS then you'll need to create a bucket for those reports. Open the [Cloud Storage Browser](https://console.cloud.google.com/storage/browser) and click **Create Bucket**.
