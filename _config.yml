@@ -24,7 +24,7 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "<a href="https://github.com/wptide/docs">GitHub</a>  |  <a href="https://make.wordpress.org/tide/">WordPress</a>  |  Distributed by an <a href=\"https://github.com/jeffpaul/docs/tree/gh-pages/LICENSE.md\">MIT license.</a>"
+footer_content: "<a href=\"https://github.com/wptide/docs\">GitHub</a>  |  <a href=\"https://make.wordpress.org/tide/\">WordPress</a>  |  Distributed by an <a href=\"https://github.com/jeffpaul/docs/tree/gh-pages/LICENSE.md\">MIT license.</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
